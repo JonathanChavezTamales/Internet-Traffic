@@ -1,4 +1,4 @@
-"Time","Internet traffic data (in bits) from an ISP. Aggregated traffic in the United Kingdom academic network backbone. It was collected between 19 November 2004, at 09:30 hours and 27 January 2005, at 11:11 hours. Hourly data"
+"Time","Bits"
 "2004-11-19 09:30:00",64554.479
 "2004-11-19 10:30:00",71138.749
 "2004-11-19 11:30:00",77253.266
@@ -1656,6 +1656,3 @@
 "2005-01-27 07:30:00",34913.459
 "2005-01-27 08:30:00",57116.824
 "2005-01-27 09:30:00",72690.784
-
-Internet traffic data (in bits) from an ISP. Aggregated traffic in the United Kingdom academic network backbone. It was collected between 19 November 2004, at 09:30 hours and 27 January 2005, at 11:11 hours. Hourly data
-
